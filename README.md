@@ -2,7 +2,6 @@
   ### Hi there, I'm a Software Engineer, Developer and a tech enthusiast 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Nvd09.CharalambosIoannou)
 
-
 - 🔭 I’m currently working on a side project for my portfolio
 - 🌱 I’m currently learning ReactJS, NextJS and TailwindCSS
 - 👯 I’m looking to collaborate on Open Source Projects
