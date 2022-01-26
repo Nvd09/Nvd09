@@ -1,3 +1,4 @@
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&lines=Welcome+to+Navid's+github+profile)](https://git.io/typing-svg)
   ### Hi there, I'm Navid 👋
 
 
