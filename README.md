@@ -1,5 +1,5 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&lines=Welcome+to+Navid's+github+profile)](https://git.io/typing-svg)
-  ### Hi there, I'm a Software Engineer, developer and a tech enthusiast 
+  ### Hi there, I'm a Software Engineer, Developer and a tech enthusiast 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Nvd09.CharalambosIoannou)
 
 
