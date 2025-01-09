@@ -2,11 +2,10 @@
   ### Hi there, I'm a Software Engineer, Developer and a tech enthusiast 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Nvd09.CharalambosIoannou)
 
-- 🔭 I’m currently working on a side project for my portfolio
-- 🌱 I’m currently learning ReactJS, NextJS and TailwindCSS
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with finding a job  
-- 😄 Pronouns: He/Him
+- I’m currently working on a side project for my portfolio
+- I’m currently learning ReactJS, NextJS and TailwindCSS
+- I’m looking to collaborate on Open Source Projects
+- I have over three years of experience in Java Sprintboot, Angular, React, NextJS, PostgreSQL, MongoDB, Amazon Web Services
 
 
 ### :email: Find me on:
